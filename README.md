@@ -1,5 +1,8 @@
 # Live Project at: https://fall23fitnessapp.onrender.com/
 
+This site acts as a basic fitness application, which allows users to build their own workouts, and view nutritional meals taken from an api which they can apply to their fitness goals.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
